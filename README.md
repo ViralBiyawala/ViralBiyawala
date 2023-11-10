@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact - **My model's so good, it predicts stock prices. Until I try it with Monopoly money.**
 
+---
+[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/viralbiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="viralbiyawala"/></a>
@@ -58,8 +60,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ViralBIyawala&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViralBIyawala&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViralBIyawala&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
