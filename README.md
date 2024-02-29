@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Advanced techniques in natural language processing to create more accurate and context-aware models for sentiment analysis.**
 
-- 👨‍💻 All of my projects are available [in my GitHub Account](in my GitHub Account)
-
 - 💬 Ask me about **Machine Learning, Data Science, Statistics, NLP, Deep Learning**
 
 - 📫 How to reach me - **vb.viralbiyawala08@gmail.com**
