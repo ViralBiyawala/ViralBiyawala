@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science, Statistics, NLP, Deep Learning**
 
-- 📫 How to reach me - **vb.viralbiyawala08@gmail.com**
+- 📫 How to reach me - **viralbiyawala@gmail.com**
 
 - 📄 Know about my experiences - [https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
 
