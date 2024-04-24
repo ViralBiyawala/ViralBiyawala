@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Data Science, Statistics, NLP, Deep Learning**
 
-- 🧑🏻‍🎓 Portfolio - [Viral Biyawala Portfolio](https://viralbiyawala.pythonanywhere.com/){:target="_blank"}
+- 🧑🏻‍🎓 Portfolio - [Viral Biyawala Portfolio](https://viralbiyawala.pythonanywhere.com/)
 
 - 📫 How to reach me - **viralbiyawala@gmail.com**
 
