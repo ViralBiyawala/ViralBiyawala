@@ -7,7 +7,7 @@
 
 - 📫 How to reach me - **viralbiyawala@gmail.com**
 
-- 📄 Know about my experiences - [https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
+- 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
 
 - ⚡ Fun fact - **My model's so good, it predicts stock prices. Until I try it with Monopoly money.**
 
