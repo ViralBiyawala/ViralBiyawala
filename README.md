@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
 
-- ⚡ Fun fact - **My model's so good, it predicts stock prices. Until I try it with Monopoly money.**
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
@@ -57,8 +55,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViralBIyawala&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ViralBIyawala&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViralBIyawala&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ViralBiyawala&show_icons=true" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViralBiyawala" alt="Viral Biyawala's GitHub Streak" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViralBiyawala&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Viral Biyawala Top Languages" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
