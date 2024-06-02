@@ -11,10 +11,10 @@
 
 - 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
 
----
-[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
+
 <a href="https://linkedin.com/in/viralbiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="viralbiyawala"/></a>
 <a href="https://www.datacamp.com/portfolio/ViralBiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
 <a href="https://www.leetcode.com/viralbiyawala/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="viralbiyawala" /></a>
