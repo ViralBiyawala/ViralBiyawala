@@ -12,7 +12,7 @@
 - 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <a href="https://linkedin.com/in/viralbiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="viralbiyawala"/></a>
