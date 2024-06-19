@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - **viralbiyawala@gmail.com**
 
-- 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/15MoFevX3OXimhe0HMLLsxeOHjTq_NlmD?usp=sharing)
+- 📄 Know about my experiences - [Checkout my resume](https://drive.google.com/drive/folders/1tWk5ZhVzTg2aOONaMmmB-LNCeEkGx2a5?usp=sharing)
 
 
 # 🌐 Socials:
