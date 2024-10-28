@@ -1,4 +1,6 @@
-![Banner-image](github-header-image.png)
+![Banner-image](github-header-image.png) 
+
+[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
 
 Welcome to my corner of the digital universe! I’m an enthusiastic and dedicated Computer Science student exploring the ever-evolving world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**. Based in Surat, Gujarat, India, I thrive on leveraging technology to solve complex problems and drive innovation.
 
@@ -52,8 +54,6 @@ Thanks for stopping by—looking forward to connecting with you! 🚀
 
 
 # 🌐 Socials:
-[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
-
 <a href="https://linkedin.com/in/viralbiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="viralbiyawala"/></a>
 <a href="https://www.datacamp.com/portfolio/ViralBiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="viralbiyawala"/></a>
 <a href="https://www.leetcode.com/viralbiyawala/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="viralbiyawala" /></a>
