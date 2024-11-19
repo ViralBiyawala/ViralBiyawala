@@ -1,6 +1,9 @@
 ![Banner-image](github-header-image.png) 
 
-[![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in)
+- [![](https://visitcount.itsvg.in/api?id=ViralBIyawala&icon=6&color=6)](https://visitcount.itsvg.in) 
+- 📧 **Email me:** viralbiyawala@gmail.com  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/viralbiyawala)  
+- 🌐 **Portfolio:** [Portfolio](https://viralbiyawala.pythonanywhere.com)
 
 Welcome to my corner of the digital universe! I’m an enthusiastic and dedicated Computer Science student exploring the ever-evolving world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**. Based in Surat, Gujarat, India, I thrive on leveraging technology to solve complex problems and drive innovation.
 
@@ -41,17 +44,6 @@ I love working with diverse technologies to solve real-world problems. Here’s 
 - **Cloud & Database:** Google Cloud Platform (GCP), PostgreSQL, Roboflow, RESTful APIs
 
 ---
-
-### 🌍 **Let’s Connect!**
-
-I’m always excited to meet new people, collaborate on projects, or simply chat about the latest trends in AI and machine learning. If you have an idea to discuss or want to connect for potential opportunities, don’t hesitate to reach out!
-
-- 📧 **Email me:** viralbiyawala@gmail.com  
-- 🔗 **LinkedIn:** [Viral Biyawala LinkedIn](https://www.linkedin.com/in/viralbiyawala)  
-- 🌐 **Portfolio:** [Check out my Portfolio](https://viralbiyawala.pythonanywhere.com)
-
-Thanks for stopping by—looking forward to connecting with you! 🚀
-
 
 # 🌐 Socials:
 <a href="https://linkedin.com/in/viralbiyawala" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="viralbiyawala"/></a>
