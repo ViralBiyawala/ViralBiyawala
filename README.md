@@ -28,7 +28,7 @@ I’m currently pursuing a **Bachelor of Technology** in **Computer Science and 
 
 ---
 
-### 🏆 **Selected Experiences**
+### 🏆 **Experiences**
 
 - **AI/ML Intern at Build Macro (Canberra, Australia):**  
   Here, I engineered AI solutions using **Tesseract-OCR** and **YOLOv9** to automate the detection of architectural objects, reducing manual processing time by 91%. I deployed the system on **Google Cloud Platform**, achieving an impressive 85% accuracy in detecting various architectural elements.
